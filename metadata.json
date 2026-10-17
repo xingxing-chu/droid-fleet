@@ -1,0 +1,8 @@
+{
+  "name": "1",
+  "description": "Android device controller receiver with PIN binding, remote ring, flashlight, and popup notifications for Windows 11.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
