@@ -102,6 +102,7 @@
 - 提供通知栏常驻管理：
   - 静默模式：降低通知重要性，减少打扰；
   - 系统通知设置入口：可跳转到系统设置关闭该应用通知。
+<img width="335" height="728" alt="image" src="https://github.com/user-attachments/assets/1b7a9ba9-73f8-47b9-86c4-95d52869fc4b" />
 
 ### Windows 11 控制端
 
@@ -111,6 +112,7 @@
 - 实时显示在线状态、电量和充电状态；
 - 批量下发响铃、闪光和弹窗通知指令；
 - 自动记忆窗口尺寸、位置和最大化状态。
+<img width="1062" height="812" alt="image" src="https://github.com/user-attachments/assets/75ba1952-8bd5-4092-ad91-6114e4d8a9aa" />
 
 ---
 
